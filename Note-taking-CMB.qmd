@@ -1,0 +1,92 @@
+---
+title: "Common Method Bias in Social Science Research"
+author: "Wenting Jiang"
+date: "2026-11-23"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    embed-resources: true
+---
+
+
+## Introduction
+
+The article discuss common method bias and why it can become a problem in social science research. Common method bias happens when part of the result comes from the way researchers collected the data instead of the actual concepts they wanted to study. This issue is common in survey research because researchers often ask one person to answer many questions about both the cause and the outcome at the same time.
+
+The authors do not say that every survey has a serious method bias problem. Instead, the size of the problem depends on the respondents, questions, research setting, and constructs. Their main recommendation is that researchers should think about possible method bias before collecting data. Statistical tests can help later, but they cannot completely repair a weak research design.
+
+## Meaning and Sources of Common Method Bias
+
+A method includes the source of the data, the wording of questions, response scales, order of the questions, timing, and the way the survey is delivered. Method bias is systematic error created by one or more of these features. Common method variance is the variance shared by different measures because they were measured with the same method.
+
+For example, a researcher may ask employees to rate supervisor support, job satisfaction, and intention to quit in one online survey. The relationships could be real, but they may also be influenced by the employee’s mood or by a desire to give consistent answers. The problem is that researchers may think the correlation only represents the theoretical relationship.
+
+### Respondent effects
+
+One source is the person who answers the survey. Some respondents try to make all of their answers consistent. Others answer in a socially desirable way because they want to look responsible or positive. A person’s temporary mood can also affect many answers at the same time. In addition, some people usually agree with statements even when the content changes. These response patterns can create correlations that do not completely come from the variables being studied.
+
+### Question and scale effects
+
+Question design is another source of bias. Vague questions, difficult wording, double-barreled questions, and similar wording across different scales may confuse respondents. Using the exact same response format for every construct can also encourage people to repeat the same response pattern. Positive and negative wording sometimes creates problems too because respondents may not read every question carefully.
+
+### Context and timing
+
+The position of a question can change how it is interpreted. Earlier questions may remind respondents of certain experiences or reveal what the researcher expects. Bias is also more likely when predictor and outcome variables are placed together and answered at the same time. The respondent can remember the earlier answer and try to keep later answers consistent with it.
+
+## Why Common Method Bias Matters
+
+Common method bias can make relationships look stronger than they really are. It can also make a real relationship look weaker. Therefore, it may create a false conclusion, hide an important result, or change the estimated size of an effect.
+
+An important point from the article is that method bias does not influence every measure equally. Social desirability may strongly affect sensitive questions but have almost no effect on an objective knowledge question. Mood may affect attitudes more than factual behavior. Because of this, researchers should not assume there is one standard amount of common method variance in every study.
+
+The article takes a balanced position. Same-source data is not automatically useless, but researchers also should not ignore the problem just because a survey is convenient.
+
+## Procedural and Statistical Remedies
+
+The best solution is to prevent method bias during the research design stage.
+
+First, researchers can collect information from different sources. Employees might report their attitudes, supervisors could evaluate performance, and company records could provide absenteeism or sales information. This is helpful when each source has enough knowledge to provide a valid measure.
+
+Second, researchers can separate the measurements. Predictor and outcome variables may be collected at different times or placed in different parts of the questionnaire. Researchers can also use different instructions or formats so that respondents do not easily connect the measures. However, separation should still make sense for the theory.
+
+Third, anonymity and confidentiality can reduce social desirability and fear of evaluation. Instructions can explain that there are no right or wrong answers. Researchers should also avoid telling respondents too much about the expected relationship between variables.
+
+Finally, survey items should be simple, specific, and easy to understand. Double-barreled questions should be avoided. Researchers may also change or counterbalance question order when order is not theoretically important.
+
+### Statistical approaches
+
+Statistical methods are useful when method bias may still exist after the data is collected. One approach is to include a latent method factor in a confirmatory factor analysis. The researcher can compare a normal measurement model with another model that includes method variance. However, these models can be complicated and may have identification problems.
+
+A marker variable is another option. It is a variable that should not be theoretically related to the main constructs but is measured in the same survey. Shared variance with the marker may be used to estimate method effects. The marker needs to be selected carefully because a bad marker may not capture the actual source of bias.
+
+Researchers can also directly measure a possible source such as social desirability or negative affect. A multitrait-multimethod design is stronger because several traits are measured with several methods, although it takes more time and data.
+
+The article also shows why the Harman single-factor test is not enough. Method bias may involve several factors or affect only part of the survey. Not finding one large factor does not prove the data has no common method bias.
+
+## Application to Customer Survey Research
+
+This topic is important for customer insight research. A customer survey may ask the same person about service quality, satisfaction, trust, and repurchase intention. If every question uses the same scale and appears in the same survey, the correlations may partly reflect mood, memory, or consistent responding.
+
+For a better study, service perceptions could be collected after the customer interaction, while actual repeat purchases could come from company records. Repurchase intention could be measured later. If everything must be collected in one survey, the researcher can separate the sections, protect anonymity, use clear questions, and include a useful marker variable.
+
+For me, the most useful lesson is that common method bias should not be treated as one final statistical test. It is more like a research design issue that starts before the questionnaire is written. Researchers need to explain which bias is possible in their study and why their solution should reduce it.
+
+### Main takeaways
+
+1. Common method bias comes from the measurement process rather than the main constructs.
+2. It can increase, decrease, or change observed relationships.
+3. The effect is different across constructs and research situations.
+4. Good survey design is usually more helpful than relying only on a statistical correction.
+5. Different sources, separation of measures, anonymity, and clear questions can reduce bias.
+6. Statistical controls have assumptions and cannot guarantee that all method bias is removed.
+7. The Harman single-factor test alone is weak evidence.
+
+## Conclusion
+
+Podsakoff, MacKenzie, and Podsakoff (2012) explain that method bias is a realistic concern, but its effect must be evaluated in the specific research setting. Researchers should identify likely bias sources, prevent them when possible, and use statistical methods only when they fit the research design. The most convincing study will combine good measurement, more than one source when possible, careful analysis, and honest reporting of limitations.
+
+## Appendix
+
+
